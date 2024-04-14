@@ -1,0 +1,13 @@
+export default function loading() {
+  return <div>loading</div>;
+} // adding streaming
+
+// import DashboardSkeleton from '../../ui/skeletons';
+
+// export default function loading() {
+//   return (
+//     <div>
+//       <DashboardSkeleton />
+//     </div>
+//   );
+// } // adding loading skeleton
